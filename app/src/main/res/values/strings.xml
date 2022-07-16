@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MedFo</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_medical_centre_list">MedicalCentreList</string>
+    <string name="tvCopyright">Copyright © 2022 Farah Izzati</string>
+    <string name="about_page">About Page</string>
+    <string name="logout">Logout</string>
+    <string name="welcome">WELCOME,</string>
+    <string name="about_text">This application will give a list and direction to the medical centre that is available nearby for the user.</string>
+    <string name="about_information">Click for more information</string>
+    <string name="about_developer">Developed by:</string>
+    <string name="developer1_name">Farah Nurshaziela</string>
+    <string name="developer2_name">Nurul Izzati binti Iddarus</string>
+    <string name="developer_group">RCS2405B</string>
+    <string name="developer_program">CS240</string>
+    <string name="developer1_id">2020960527</string>
+    <string name="developer2_id">2020971657</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme"
+        parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="background">@drawable/ic__02__instagram_story_</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay"
+        parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="AppTheme.PopupOverlay"
+        parent="Theme.AppCompat.Light"/>
+</resources>
